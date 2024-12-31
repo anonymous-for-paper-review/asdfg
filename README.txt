@@ -16,7 +16,7 @@ Uses a model with Legendre convolution layer and attention mechanism but NO feat
 
 Environment
 ===========
-GPU: NVIDIA 4080 16GB
+GPU: NVIDIA RTX 4090
 RAM: 64GB
 OS: ubuntu 18.04
 PyTorch 1.16.10
